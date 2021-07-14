@@ -16,5 +16,6 @@ public class Console {
         System.out.printf("%s %d", nome, idade);
 
         entrada.close();
+
     }
 }
